@@ -32,7 +32,7 @@
                     "background": {
                         "activeOnStart": false,
                         "beginsPattern": "^Start building .*",
-                        "endsPattern": "^Built in .*",
+                        "endsPattern": "^", /*Dont match anything*/
                     }
                 },{
                     "owner": "hugo",
