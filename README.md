@@ -1,4 +1,5 @@
 # Hugo launch configuration snippet for VSCode
+After searching way to long in the internet I created my own launch.json and tasks.json for hugo:
 hugo configuration for vscode using launch.json and tasks.json. Error Detection (Problem matcher) included!
 
 ## Usage
