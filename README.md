@@ -1,5 +1,5 @@
 # Hugo launch configuration snippet for VSCode
-hugo configuration for vscode using launch.json and tasks.json. Error Detection (Problem matcher)
+hugo configuration for vscode using launch.json and tasks.json. Error Detection (Problem matcher) included!
 
 ## Usage
 copy `launch.json` and `tasks.json` into your `.vscode` folder. 
